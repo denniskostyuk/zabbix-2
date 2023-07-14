@@ -29,3 +29,4 @@
 #### Требования к результату 
 
 Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»
+   ![Скрин1](https://github.com/denniskostyuk/zabbix-2/blob/main/task-4.png)
