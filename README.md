@@ -6,7 +6,7 @@
 1. Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»
    ![Скрин1](https://github.com/denniskostyuk/zabbix-2/blob/main/task-1_template.png)
 
-А также итемы:
+А также итемы для шаблона Zadanie-1:
    ![Скрин2](https://github.com/denniskostyuk/zabbix-2/blob/main/task-1_item1.png)
    ![Скрин3](https://github.com/denniskostyuk/zabbix-2/blob/main/task-1_item2.png)
    
