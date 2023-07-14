@@ -5,10 +5,12 @@
 
 1. Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»
    ![Скрин1](https://github.com/denniskostyuk/zabbix-2/blob/main/task-1_template.png)
+
+А также итемы:
    ![Скрин2](https://github.com/denniskostyuk/zabbix-2/blob/main/task-1_item1.png)
    ![Скрин3](https://github.com/denniskostyuk/zabbix-2/blob/main/task-1_item2.png)
    
-2. Приложите в файл README.md текст использованных команд в GitHub
+3. Приложите в файл README.md текст использованных команд в GitHub
 
 sudo su
 
