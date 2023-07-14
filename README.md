@@ -16,9 +16,10 @@
 
 
 ### Задание 2 - 3
-
 #### Требования к результату
+
 Прикрепите в файл README.md скриншот страницы хостов, где будут видны привязки шаблонов с названиями «Задание 2-3». Хосты должны иметь зелёный статус подключения
-   ![Скрин1](https://github.com/denniskostyuk/zabbix-1/blob/main/Screen-21.png)
+
+   ![Скрин1](https://github.com/denniskostyuk/zabbix-2/blob/main/Task_2-3.png)
    
 
