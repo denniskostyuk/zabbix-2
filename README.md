@@ -1,9 +1,9 @@
 # Домашнее задание к занятию «Система мониторинга Zabbix. Часть 2» - `Костюк Денис`
 
 ### Задание 1
-#### Требования к результаты 
+#### Требования к результату 
 
-1. Прикрепите в файл README.md скриншот авторизации в админке
+1. Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»
    ![Скрин1](https://github.com/denniskostyuk/zabbix-1/blob/main/screen-11.png)
    ![Скрин2](https://github.com/denniskostyuk/zabbix-1/blob/main/screen-12.png)
    ![Скрин3](https://github.com/denniskostyuk/zabbix-1/blob/main/screen-13.png)
